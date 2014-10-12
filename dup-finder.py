@@ -1,4 +1,4 @@
-#!/path/to/python
+#!/usr/bin/python
 import sys
 import os
 import hashlib
